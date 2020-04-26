@@ -1,0 +1,14 @@
+Navigasi 1
+Head line 1
+Tentang Kami 1
+Kenapa Kami 
+Produk Kami 1
+Testimoni 1
+Hubungi Kami 1
+
+
+warna:
+hijau telur:#5cce98
+indigo:#3dd0de
+coral:#ff7448
+ungu:#b434ee
